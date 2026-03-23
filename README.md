@@ -172,10 +172,3 @@ Current app output shown in the screenshot:
 - `requirements.txt` - project dependencies
 - `wine__12.csv` - dataset used for training
 
-## Future Improvements
-
-- Add screenshot images directly into the README
-- Save trained models to disk for faster startup
-- Add batch CSV upload for bulk predictions
-- Add deployment instructions for Streamlit Cloud or Render
->>>>>>> eb3e4e8 (Final commit)
